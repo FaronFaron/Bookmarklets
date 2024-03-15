@@ -8,3 +8,9 @@ Multiple ways to execute the console script
 3. Right click › Inspect and switch to the console tab
 
 4. Click the 3 dots on the top right corner › More Tools › Developer tools and switch to the console tab
+
+5. Make a bookmark (the star on the right side of the url bar if you are using chrome)
+Click on more at the bottom left corner
+Delete everything in the url box
+Type javascript:
+Paste in the code
