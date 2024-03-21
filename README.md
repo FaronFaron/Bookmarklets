@@ -17,3 +17,4 @@ Delete everything in the url box
 Type javascript:
 
 Paste in the code
+☺
