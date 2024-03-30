@@ -1,4 +1,4 @@
-# Blooket-hack
+HOW
 How do I execute one of these scripts?
 
 Make a bookmark (the star on the right side of the url bar if you are using chrome)
